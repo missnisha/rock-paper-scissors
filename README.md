@@ -10,3 +10,6 @@ https://missnisha.github.io/rock-paper-scissors/
 ### For mobile:
 You can see a demo video [here.](https://www.behance.net/gallery/97723705/Rock-Paper-Scissors-Javascript-HTML-CSS-game)
 
+
+
+![rock-paper-scissors-screenshot](https://github.com/missnisha/rock-paper-scissors/blob/master/assets/rock-paper-scissors-screenshot.png)
